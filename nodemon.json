@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_ATLAS_PW": "!Funnoy03*",
+    "JWT_KEY": "random word salad"
+  }
+}
